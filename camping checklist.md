@@ -1,6 +1,6 @@
 #Camping Checklist
 
-![](http://onmilwaukee.com/images/articles/ca/camping/camping_fullsize_story1.jpg)
+![](camping.jpg)
 
 ##Shelter
 
