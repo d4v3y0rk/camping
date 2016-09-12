@@ -11,6 +11,8 @@
 
 ##Bedding
 
+ - [ ] Air Mattress
+ - [ ] Air Pump (car adapter)
  - [ ] Sleeping Bags
  - [ ] Sheets / Blankets
  - [ ] Pillows
@@ -36,6 +38,11 @@
  - [ ] Batteries
  - [ ] Flashlights / Lantern
  - [ ] Water Jug
+ - [ ] Backpack
+ - [ ] Pocket Knife
+ - [ ] Fiching Pole(s)
+ - [ ] Tackle Box
+ - [ ] Fishing License
 
 ##Clothing
 
@@ -44,4 +51,4 @@
  - [ ] Sweatshirts
  - [ ] Sweatpants
  - [ ] Flip Flops
- 
+ - [ ] Rain Coats
