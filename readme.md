@@ -1,6 +1,6 @@
 #My Camping Checklist
 
-[The Checklist](camping%20checklist.md)
+[The Checklist](camping-checklist.md)
 
 Image used under creative commons. Obtained from: https://www.flickr.com/photos/64640486@N07/7842069486/
 License Information: https://creativecommons.org/licenses/by-nc/2.0/
