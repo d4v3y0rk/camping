@@ -43,6 +43,7 @@
  - [ ] Fiching Pole(s)
  - [ ] Tackle Box
  - [ ] Fishing License
+ - [ ] Waterproof Phone Case
 
 ##Clothing
 
