@@ -1,15 +1,15 @@
-#Camping Checklist
+# Camping Checklist
 
 ![](camping.jpg)
 
-##Shelter
+## Shelter
 
  - [ ] Tent
  - [ ] Tent Stakes
  - [ ] Axe or Hammer
  - [ ] Camp Chairs
 
-##Bedding
+## Bedding
 
  - [ ] Air Mattress
  - [ ] Air Pump (car adapter)
@@ -17,7 +17,7 @@
  - [ ] Sheets / Blankets
  - [ ] Pillows
 
-##Cooking
+## Cooking
 
  - [ ] Cooler
  - [ ] Ice
@@ -30,7 +30,7 @@
  - [ ] Trash Bags (Grocery Bags)
  - [ ] Marshmallow Roasters
 
-##Misc
+## Misc
 
  - [ ] Soap
  - [ ] Sunscreen
@@ -45,7 +45,7 @@
  - [ ] Fishing License
  - [ ] Waterproof Phone Case
 
-##Clothing
+## Clothing
 
  - [ ] Bathing Suits
  - [ ] Towels
