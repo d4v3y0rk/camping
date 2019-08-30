@@ -40,7 +40,7 @@
  - [ ] Water Jug
  - [ ] Backpack
  - [ ] Pocket Knife
- - [ ] Fiching Pole(s)
+ - [ ] Fishing Pole(s)
  - [ ] Tackle Box
  - [ ] Fishing License
  - [ ] Waterproof Phone Case
